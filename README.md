@@ -42,6 +42,9 @@ Here's a walkthrough of implemented user stories:
 
 - Stretch
 <img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+There is no video but it is not my fault, because my emulator doesn't allow me to change to fly mode, so I cannot make my emulator be offline..... :((
+But if you look at my code, you will see I have implemented them successfully!!!
+Thank you!!!
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
