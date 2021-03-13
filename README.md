@@ -37,6 +37,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+- Required
+<img src='https://res.cloudinary.com/headincloud/image/upload/v1615617054/tweeter2_gif_aypr0j.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+- Stretch
 <img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
